@@ -7,23 +7,15 @@ REST API to generate QR codes in PNG, JPG, SVG, and EPS formats. Simple, fast, a
 - Generate QR codes from URLs, text, emails, or phone numbers
 - Multiple output formats: PNG, JPG, SVG, EPS
 - Customizable size (default 300px)
-- 5,000 requests/month on free tier
+- 100 requests/month on free tier
 - 99.99% uptime, 780ms average latency
 - Example Response:
 
 ![QR Code Sample](https://raw.githubusercontent.com/omkarcloud/assets/master/images/qrcode-api/qrcode.png)
 
-## Authentication
+## Get API Key
 
-1. Create account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up)
-
-![Sign Up](https://raw.githubusercontent.com/omkarcloud/assets/master/images/signup.png)
-
-2. Get API key from [omkar.cloud/api-key](https://www.omkar.cloud/api-key)
-
-![Copy API Key](https://raw.githubusercontent.com/omkarcloud/assets/master/images/enrichment-key-omkar.png)
-
-3. Include `API-Key` header in requests
+Create an account at [omkar.cloud](https://www.omkar.cloud/auth/sign-up?redirect=/api-key) to get your API key, and use it in requests. 100 requests are free every month.
 
 ## Quick Start
 
@@ -171,10 +163,10 @@ elif response.status_code == 429:
 
 | Plan | Price | Requests/Month |
 |------|-------|----------------|
-| Free | $0 | 5,000 |
-| Starter | $25 | 100,000 |
-| Grow | $75 | 1,000,000 |
-| Scale | $150 | 10,000,000 |
+| Free | $0 | 100 |
+| Starter | $16 | 3,000 |
+| Grow | $48 | 15,000 |
+| Scale | $148 | 75,000 |
 
 ## Questions? We have answers.
 

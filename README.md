@@ -174,4 +174,4 @@ Reach out anytime. We will solve your query within 1 working day.
 
 [![Contact Us on WhatsApp about QR Code API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/whatsapp-us.png)](https://www.omkar.cloud/l/qrcode-generator-api-github-whatsapp)
 
-[![Contact Us on Email about QR Code API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](https://www.omkar.cloud/l/qrcode-generator-api-github-email)
+[![Contact Us on Email about QR Code API](https://raw.githubusercontent.com/omkarcloud/assets/master/images/ask-on-email.png)](mailto:happy.to.help@omkar.cloud?subject=QR%20Code%20API%20Question)
